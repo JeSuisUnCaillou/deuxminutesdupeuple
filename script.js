@@ -18,7 +18,7 @@ const extractUrls = (data) => {
     title = title.replace('Ã©', 'é')
     title = title.replace('Ã´', 'ô')
     title = title.replace('Ã¨', 'è')
-    title = title.replace('Ã ', 'à')
+    title = title.replace('Ã&nbsp;', 'à')
     title = title.replace('Ãª', 'ê')
     title = title.replace('Ã«', 'ë')
     title = title.replace('\\', '')
