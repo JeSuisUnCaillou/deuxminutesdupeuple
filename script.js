@@ -1,6 +1,7 @@
 const fs = require('fs')
 var http = require('https')
 const root = 'https://les2minutesdupeuple.tk'
+const folderDest = 'episodes/'
 
 const readFile = async (fileName) => {
   return new Promise((resolve, reject) => {
@@ -10,7 +11,7 @@ const readFile = async (fileName) => {
   })
 }
 
-const extractUrls = (data) => {
+const extractData = (data) => {
   const matchs = data.match(/href="(.+?)".+?<\/span>/g)
   return matchs.map(match => {
     const file = match.match(/href="(.+?)"/)[1]
@@ -40,13 +41,14 @@ const downloadFile = (url, fileName, callback) => {
 
 const main = async () => {
   const fileContent = await readFile('./data_origin.xml')
-  const results = extractUrls(fileContent)
+  const data = extractData(fileContent)
 
-  const file = results[0]
-  console.log(results)
-  // downloadFile(root + file, 'test.mp3', (data, error) => {
-  //   if (error) { console.log(error) } else { console.log(data) }
-  // })
+  var datum
+  for (datum in data) {
+    downloadFile(root + datum.file, folderDest + datum.title + '.mp3', (data, error) => {
+      if (error) { console.log(error) } else { console.log(data) }
+    })
+  }
 }
 
 main()
