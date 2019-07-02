@@ -24,6 +24,7 @@ const extractData = (data) => {
     title = title.replace('Ã«', 'ë')
     title = title.replace('\\', '')
     title = title.replace('Ã', 'Ç')
+    title = title.replace(':', '-')
     
     return { file, title }
   })
