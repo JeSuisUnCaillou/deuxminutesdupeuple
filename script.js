@@ -41,17 +41,21 @@ const downloadFile = (url, fileName, callback) => {
   })
 }
 
+const download_recursive = (data, index) => {
+  if (index < data.length) {
+    const datum = data[index]
+    console.log('try ' + datum.title + ' (' + datum.file + ')')
+    downloadFile(root + datum.file, folderDest + datum.title + '.mp3', (data, error) => {
+      if (error) { console.log(error) } else { download_recursive(data, index + 1) }
+    })
+  }
+}
+
 const main = async () => {
   const fileContent = await readFile('./data_origin.xml')
   const data = extractData(fileContent)
 
-  var index
-  for (index in data) {
-    const datum = data[index]
-    downloadFile(root + datum.file, folderDest + datum.title + '.mp3', (data, error) => {
-      if (error) { console.log(error) } else { console.log(data) }
-    })
-  }
+  download_recursive(data, 0)
 }
 
 main()
