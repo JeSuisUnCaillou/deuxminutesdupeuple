@@ -16,15 +16,15 @@ const extractData = (data) => {
   return matchs.map(match => {
     const file = match.match(/href="(.+?)"/)[1]
     var title = match.match(/span>(.+?)<\/span/)[1]
-    title = title.replace('Ã©', 'é')
-    title = title.replace('Ã´', 'ô')
-    title = title.replace('Ã¨', 'è')
-    title = title.replace('Ã&nbsp;', 'à')
-    title = title.replace('Ãª', 'ê')
-    title = title.replace('Ã«', 'ë')
-    title = title.replace('\\', '')
-    title = title.replace('Ã', 'Ç')
-    title = title.replace(':', '-')
+    title = title.replace(/Ã©/g, 'é')
+    title = title.replace(/Ã´/g, 'ô')
+    title = title.replace(/Ã¨/g, 'è')
+    title = title.replace(/Ã&nbsp;/g, 'à')
+    title = title.replace(/Ãª/g, 'ê')
+    title = title.replace(/Ã«/g, 'ë')
+    title = title.replace(/\\/g, '')
+    title = title.replace(/Ã/g, 'Ç')
+    title = title.replace(/:/g, '-')
     
     return { file, title }
   })
