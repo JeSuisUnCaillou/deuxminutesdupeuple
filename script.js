@@ -60,7 +60,7 @@ const download_recursive = (data, index) => {
   if (index < data.length) {
     const datum = data[index]
     
-    console.log('try ' + datum.title + ' (' + datum.file + ')')
+    console.log('try ' + datum.title + ' [' + datum.file + ']')
     downloadFile(root + datum.file, folderDest + datum.title + '.mp3', (result, error) => {
       if (error) { console.log(error) } else { download_recursive(data, index + 1) }
     })
