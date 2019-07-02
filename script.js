@@ -23,8 +23,10 @@ const extractData = (data) => {
     title = title.replace(/Ãª/g, 'ê')
     title = title.replace(/Ã«/g, 'ë')
     title = title.replace(/\\/g, '')
+    title = title.replace(/Ã§/g, 'ç')
     title = title.replace(/Ã/g, 'Ç')
     title = title.replace(/Ã/g, 'É')
+    title = title.replace(/Ã®/g, 'î')
     title = title.replace(/:/g, '-')
     
     return { file, title }
