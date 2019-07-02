@@ -1,0 +1,528 @@
+<ul id="listEpisodes">
+  <li id="0" data-nb="0003" class=""><a href="/web/mp3/0003.mp3"><span>2000 licenciements locaux</span><span class="details">Columbo du peuple</span></a></li>
+  <li id="1" data-nb="0008" class=""><a href="/web/mp3/0008.mp3"><span>Abonnement au magazine</span><span class="details">Vente par tÃ©lÃ©phone</span></a></li>
+  <li id="2" data-nb="0009"><a href="/web/mp3/0009.mp3"><span>Abonnement au service de livraison</span><span class="details">Vente par tÃ©lÃ©phone</span></a></li>
+  <li id="3" data-nb="0010"><a href="/web/mp3/0010.mp3"><span>AccordÃ©on au boulot</span></a></li>
+  <li id="4" data-nb="0011"><a href="/web/mp3/0011.mp3"><span>Accueillir les JO</span></a></li>
+  <li id="5" data-nb="0012"><a href="/web/mp3/0012.mp3"><span>Achat d'un Musicbox</span></a></li>
+  <li id="6" data-nb="0013"><a href="/web/mp3/0013.mp3"><span>Acte de succession</span><span class="details">Columbo du peuple</span></a></li>
+  <li id="7" data-nb="0014"><a href="/web/mp3/0014.mp3"><span>Agence de pub</span></a></li>
+  <li id="8" data-nb="0015"><a href="/web/mp3/0015.mp3"><span>Aiguisage de couteaux</span><span class="details">Vente par tÃ©lÃ©phone</span></a></li>
+  <li id="9" data-nb="0016"><a href="/web/mp3/0016.mp3"><span>Albert Einstein</span></a></li>
+  <li id="10" data-nb="0017"><a href="/web/mp3/0017.mp3"><span>Alcool, drogue ou quelque chose</span></a></li>
+  <li id="11" data-nb="0018"><a href="/web/mp3/0018.mp3"><span>AlÃ©as du direct</span></a></li>
+  <li id="12" data-nb="0019"><a href="/web/mp3/0019.mp3"><span>Alexandre consolÃ© par Monsieur Bonheur</span></a></li>
+  <li id="13" data-nb="0020"><a href="/web/mp3/0020.mp3"><span>Ambiance dÃ©testable</span><span class="details">La maison  Slangster</span></a></li>
+  <li id="14" data-nb="0021"><a href="/web/mp3/0021.mp3"><span>Anniversaire du patron</span></a></li>
+  <li id="15" data-nb="0022"><a href="/web/mp3/0022.mp3"><span>Annonce avec bonne humeur</span><span class="details">Ca se dispute</span></a></li>
+  <li id="16" data-nb="0023"><a href="/web/mp3/0023.mp3"><span>Annonceur embÃªtant le perchiste</span><span class="details">Ca se dispute</span></a></li>
+  <li id="17" data-nb="0026"><a href="/web/mp3/0026.mp3"><span>Appel Ã&nbsp; 7h du matin</span></a></li>
+  <li id="18" data-nb="0027"><a href="/web/mp3/0027.mp3"><span>Appel Ã&nbsp; toute heure</span><span class="details">Urgences du peuple</span></a></li>
+  <li id="19" data-nb="0028"><a href="/web/mp3/0028.mp3"><span>Appel au directeur du FBI</span><span class="details">X-files du peuple</span></a></li>
+  <li id="20" data-nb="0006"><a href="/web/mp3/0006.mp3"><span>Approche des cÃ´tes amÃ©ricaines</span><span class="details">Jacques Cartier</span></a></li>
+  <li id="21" data-nb="0029"><a href="/web/mp3/0029.mp3"><span>Arthur chanteur</span></a></li>
+  <li id="22" data-nb="0030"><a href="/web/mp3/0030.mp3"><span>Arthur chanteur : le retour</span></a></li>
+  <li id="23" data-nb="0031"><a href="/web/mp3/0031.mp3"><span>Artistes amateurs</span></a></li>
+  <li id="24" data-nb="0032"><a href="/web/mp3/0032.mp3"><span>Artistes face aux fans</span></a></li>
+  <li id="25" data-nb="0033"><a href="/web/mp3/0033.mp3"><span>Assurance automobile</span><span class="details">Vente par tÃ©lÃ©phone</span></a></li>
+  <li id="26" data-nb="0034"><a href="/web/mp3/0034.mp3"><span>Attente de l'escouade des artificiers</span><span class="details">SÃ©rie policiÃ¨re</span></a></li>
+  <li id="27" data-nb="0037"><a href="/web/mp3/0037.mp3"><span>Audition d'un saxophoniste-chanteur</span></a></li>
+  <li id="28" data-nb="0035"><a href="/web/mp3/0035.mp3"><span>Audition de Robert Vol.1</span></a></li>
+  <li id="29" data-nb="0036"><a href="/web/mp3/0036.mp3"><span>Audition de Robert Vol.2</span></a></li>
+  <li id="30" data-nb="0038"><a href="/web/mp3/0038.mp3"><span>Auto-immolation</span><span class="details">X-files du peuple</span></a></li>
+  <li id="31" data-nb="0039"><a href="/web/mp3/0039.mp3"><span>Autopsie</span><span class="details">X-files du peuple</span></a></li>
+  <li id="32" data-nb="0213"><a href="/web/mp3/0213.mp3"><span>Autopsie</span></a></li>
+  <li id="33" data-nb="0040"><a href="/web/mp3/0040.mp3"><span>Autoradio</span></a></li>
+  <li id="34" data-nb="0041"><a href="/web/mp3/0041.mp3"><span>Avalanche</span></a></li>
+  <li id="35" data-nb="0042"><a href="/web/mp3/0042.mp3"><span>Avant braquage de banque</span></a></li>
+  <li id="36" data-nb="0043"><a href="/web/mp3/0043.mp3"><span>Avion pour un congrÃ¨s</span></a></li>
+  <li id="37" data-nb="0044"><a href="/web/mp3/0044.mp3"><span>Avocats aux toilettes</span></a></li>
+  <li id="38" data-nb="0045"><a href="/web/mp3/0045.mp3"><span>Avoir sa propre entreprise</span></a></li>
+  <li id="39" data-nb="0046"><a href="/web/mp3/0046.mp3"><span>Bain de champagne</span><span class="details">Columbo du peuple</span></a></li>
+  <li id="40" data-nb="0047"><a href="/web/mp3/0047.mp3"><span>Bar d'extra-terrestres</span><span class="details">X-files du peuple</span></a></li>
+  <li id="41" data-nb="0048"><a href="/web/mp3/0048.mp3"><span>Bichdui VS Bouchkui</span><span class="details">Informations quiz</span></a></li>
+  <li id="42" data-nb="0049"><a href="/web/mp3/0049.mp3"><span>Bidru VS Drubi</span><span class="details">Informations quiz</span></a></li>
+  <li id="43" data-nb="0050"><a href="/web/mp3/0050.mp3"><span>Billet de loterie gagnant</span><span class="details">Columbo du peuple</span></a></li>
+  <li id="44" data-nb="0051"><a href="/web/mp3/0051.mp3"><span>Bonbons super-pÃ©touche</span></a></li>
+  <li id="45" data-nb="0052"><a href="/web/mp3/0052.mp3"><span>Bordua VS Dubois</span><span class="details">Informations quiz</span></a></li>
+  <li id="46" data-nb="0053"><a href="/web/mp3/0053.mp3"><span>Bouche sans sourire</span><span class="details">X-files du peuple</span></a></li>
+  <li id="47" data-nb="0054"><a href="/web/mp3/0054.mp3"><span>Bouillon de culture</span></a></li>
+  <li id="48" data-nb="0055"><a href="/web/mp3/0055.mp3"><span>Boutique HiFi-vidÃ©o-informatique</span></a></li>
+  <li id="49" data-nb="0056"><a href="/web/mp3/0056.mp3"><span>Boutique New Age</span></a></li>
+  <li id="50" data-nb="0057"><a href="/web/mp3/0057.mp3"><span>Brian de Palma</span></a></li>
+  <li id="51" data-nb="0058"><a href="/web/mp3/0058.mp3"><span>Bug de l'an 2000</span></a></li>
+  <li id="52" data-nb="0070"><a href="/web/mp3/0070.mp3"><span>C'est beau</span></a></li>
+  <li id="53" data-nb="0071"><a href="/web/mp3/0071.mp3"><span>C'est belle une fille</span></a></li>
+  <li id="54" data-nb="0072"><a href="/web/mp3/0072.mp3"><span>C'est Fabrice</span></a></li>
+  <li id="55" data-nb="0073"><a href="/web/mp3/0073.mp3"><span>C'est la vie</span></a></li>
+  <li id="56" data-nb="0074"><a href="/web/mp3/0074.mp3"><span>C'est le type qui sprrr</span><span class="details">Star Trek du peuple</span></a></li>
+  <li id="57" data-nb="0075"><a href="/web/mp3/0075.mp3"><span>C'est une autre journÃ©e</span></a></li>
+  <li id="58" data-nb="0067" class=""><a href="/web/mp3/0067.mp3"><span>Ãa va Ãªtre ta fÃªte</span></a></li>
+  <li id="59" data-nb="0068"><a href="/web/mp3/0068.mp3"><span>Ãa va mal aller dans un instant</span><span class="details">Columbo du peuple</span></a></li>
+  <li id="60" data-nb="0059"><a href="/web/mp3/0059.mp3"><span>Cadavre dÃ©capitÃ©</span></a></li>
+  <li id="61" data-nb="0060"><a href="/web/mp3/0060.mp3"><span>Cadeau de Saint-Valentin</span></a></li>
+  <li id="62" data-nb="0061"><a href="/web/mp3/0061.mp3"><span>CamÃ©raman virÃ©</span></a></li>
+  <li id="63" data-nb="0005"><a href="/web/mp3/0005.mp3"><span>Cap droit devant</span><span class="details">Jacques Cartier</span></a></li>
+  <li id="64" data-nb="0062"><a href="/web/mp3/0062.mp3"><span>Carole au bout du fil</span></a></li>
+  <li id="65" data-nb="0063"><a href="/web/mp3/0063.mp3"><span>Caroline a rappelÃ©</span></a></li>
+  <li id="66" data-nb="0064"><a href="/web/mp3/0064.mp3"><span>CarriÃ¨re de chanteur</span></a></li>
+  <li id="67" data-nb="0065"><a href="/web/mp3/0065.mp3"><span>Cassette de rÃ©pondeur</span></a></li>
+  <li id="68" data-nb="0066"><a href="/web/mp3/0066.mp3"><span>Cassette sur le chariot</span></a></li>
+  <li id="69" data-nb="0069"><a href="/web/mp3/0069.mp3"><span>Censure</span></a></li>
+  <li id="70" data-nb="0076"><a href="/web/mp3/0076.mp3"><span>Cette petite chose qui te sort du nez</span></a></li>
+  <li id="71" data-nb="0077"><a href="/web/mp3/0077.mp3"><span>Changement d'heure</span></a></li>
+  <li id="72" data-nb="0078"><a href="/web/mp3/0078.mp3"><span>Chanson romantique</span></a></li>
+  <li id="73" data-nb="0079"><a href="/web/mp3/0079.mp3"><span>Chanteur de grivois</span></a></li>
+  <li id="74" data-nb="0080"><a href="/web/mp3/0080.mp3"><span>Chantier de construction</span></a></li>
+  <li id="75" data-nb="0081"><a href="/web/mp3/0081.mp3"><span>Charlie et ses oeillÃ¨res</span></a></li>
+  <li id="76" data-nb="0082"><a href="/web/mp3/0082.mp3"><span>Chaussures pour Nathalie</span></a></li>
+  <li id="77" data-nb="0083"><a href="/web/mp3/0083.mp3"><span>Chercher un copain</span></a></li>
+  <li id="78" data-nb="0084"><a href="/web/mp3/0084.mp3"><span>Chiasson VS DuprÃ©</span><span class="details">Informations quiz</span></a></li>
+  <li id="79" data-nb="0085"><a href="/web/mp3/0085.mp3"><span>Chirurgie magique</span><span class="details">Vente par tÃ©lÃ©phone</span></a></li>
+  <li id="80" data-nb="0086"><a href="/web/mp3/0086.mp3"><span>Choc Ã©lectrique sur le coude</span></a></li>
+  <li id="81" data-nb="0087"><a href="/web/mp3/0087.mp3"><span>Christopher amochÃ© sur la plage</span></a></li>
+  <li id="82" data-nb="0088"><a href="/web/mp3/0088.mp3"><span>City Zoiseaux</span></a></li>
+  <li id="83" data-nb="0089"><a href="/web/mp3/0089.mp3"><span>Club vidÃ©o</span><span class="details">Vente par tÃ©lÃ©phone</span></a></li>
+  <li id="84" data-nb="0090"><a href="/web/mp3/0090.mp3"><span>Cocktail avec un fournisseur</span></a></li>
+  <li id="85" data-nb="0091"><a href="/web/mp3/0091.mp3"><span>ComÃ©dies et dramatiques musicales</span><span class="details">Cours de musique du peuple</span></a></li>
+  <li id="86" data-nb="0092"><a href="/web/mp3/0092.mp3"><span>ComitÃ© de visionnage</span></a></li>
+  <li id="87" data-nb="0093"><a href="/web/mp3/0093.mp3"><span>Commande d'Airbus annulÃ©e</span><span class="details">Columbo du peuple</span></a></li>
+  <li id="88" data-nb="0094"><a href="/web/mp3/0094.mp3"><span>Commentaires de F1</span></a></li>
+  <li id="89" data-nb="0095"><a href="/web/mp3/0095.mp3"><span>Commentateurs de foot en retard</span></a></li>
+  <li id="90" data-nb="0096"><a href="/web/mp3/0096.mp3"><span>Concentration</span></a></li>
+  <li id="91" data-nb="0097"><a href="/web/mp3/0097.mp3"><span>ConfÃ©rence pour dÃ©signer le prÃ©sident</span></a></li>
+  <li id="92" data-nb="0098"><a href="/web/mp3/0098.mp3"><span>Consultation d'avocats au cas ou</span></a></li>
+  <li id="93" data-nb="0099"><a href="/web/mp3/0099.mp3"><span>Consultation du rÃ©pondeur</span></a></li>
+  <li id="94" data-nb="0100"><a href="/web/mp3/0100.mp3"><span>Consulter un psychologue de couple</span></a></li>
+  <li id="95" data-nb="0101"><a href="/web/mp3/0101.mp3"><span>Contourner la zone</span><span class="details">Star Trek du peuple</span></a></li>
+  <li id="96" data-nb="0102"><a href="/web/mp3/0102.mp3"><span>Contrat de rÃ©novation</span><span class="details">Vente par tÃ©lÃ©phone</span></a></li>
+  <li id="97" data-nb="0103"><a href="/web/mp3/0103.mp3"><span>Contrats d'assurance</span><span class="details">Vente par tÃ©lÃ©phone</span></a></li>
+  <li id="98" data-nb="0104"><a href="/web/mp3/0104.mp3"><span>ContrÃ´leur aÃ©rien</span></a></li>
+  <li id="99" data-nb="0105"><a href="/web/mp3/0105.mp3"><span>Conversation en taxi</span></a></li>
+  <li id="100" data-nb="0106"><a href="/web/mp3/0106.mp3"><span>Copie du testament de sa femme</span><span class="details">Columbo du peuple</span></a></li>
+  <li id="101" data-nb="0107"><a href="/web/mp3/0107.mp3"><span>Copine bizarre</span><span class="details">Urgences du peuple</span></a></li>
+  <li id="102" data-nb="0108"><a href="/web/mp3/0108.mp3"><span>Corps carbonisÃ© dans une ferme</span></a></li>
+  <li id="103" data-nb="0109"><a href="/web/mp3/0109.mp3"><span>Corps dans le potager de la ferme</span></a></li>
+  <li id="104" data-nb="0110"><a href="/web/mp3/0110.mp3"><span>Corps dans une malle dans le jardin</span></a></li>
+  <li id="105" data-nb="0111"><a href="/web/mp3/0111.mp3"><span>Coucou Caroline</span></a></li>
+  <li id="106" data-nb="0112"><a href="/web/mp3/0112.mp3"><span>Cricket sauve le monde</span></a></li>
+  <li id="107" data-nb="0113"><a href="/web/mp3/0113.mp3"><span>Critique de journal</span></a></li>
+  <li id="108" data-nb="0114"><a href="/web/mp3/0114.mp3"><span>Culture</span></a></li>
+  <li id="109" data-nb="0115"><a href="/web/mp3/0115.mp3"><span>Dames de France TÃ©lÃ©com</span></a></li>
+  <li id="110" data-nb="0116"><a href="/web/mp3/0116.mp3"><span>Dans le couloir</span></a></li>
+  <li id="111" data-nb="0117"><a href="/web/mp3/0117.mp3"><span>Dans un bistrot complÃ¨tement saoul</span></a></li>
+  <li id="112" data-nb="0007"><a href="/web/mp3/0007.mp3"><span>DÃ©barquement</span><span class="details">Jacques Cartier</span></a></li>
+  <li id="113" data-nb="0118"><a href="/web/mp3/0118.mp3"><span>DÃ©branchement des facultÃ©s cervicales</span><span class="details">Urgences du peuple</span></a></li>
+  <li id="114" data-nb="0119"><a href="/web/mp3/0119.mp3"><span>DÃ©faitisme</span></a></li>
+  <li id="115" data-nb="0120"><a href="/web/mp3/0120.mp3"><span>DÃ©filÃ© du 14 juillet</span></a></li>
+  <li id="116" data-nb="0121"><a href="/web/mp3/0121.mp3"><span>DÃ©guiser en Robocop et Lewinsky</span></a></li>
+  <li id="117" data-nb="0122"><a href="/web/mp3/0122.mp3"><span>Demande d'emprunt Ã&nbsp; la banque</span></a></li>
+  <li id="118" data-nb="0004"><a href="/web/mp3/0004.mp3"><span>DÃ©part de France</span><span class="details">Jacques Cartier</span></a></li>
+  <li id="119" data-nb="0123"><a href="/web/mp3/0123.mp3"><span>DÃ©poser des brevets</span></a></li>
+  <li id="120" data-nb="0124"><a href="/web/mp3/0124.mp3"><span>Destin du mois</span></a></li>
+  <li id="121" data-nb="0125"><a href="/web/mp3/0125.mp3"><span>DÃ©tournement via Internet</span></a></li>
+  <li id="122" data-nb="0127"><a href="/web/mp3/0127.mp3"><span>DictÃ©e de Bernard Pivot</span></a></li>
+  <li id="123" data-nb="0128"><a href="/web/mp3/0128.mp3"><span>Didier et le grand argentier</span></a></li>
+  <li id="124" data-nb="0129"><a href="/web/mp3/0129.mp3"><span>Dieu fait sa pub</span></a></li>
+  <li id="125" data-nb="0130"><a href="/web/mp3/0130.mp3"><span>Diner d'affaires</span></a></li>
+  <li id="126" data-nb="0131"><a href="/web/mp3/0131.mp3"><span>Discours prÃ©sidentiel de NoÃ«l</span></a></li>
+  <li id="127" data-nb="0132"><a href="/web/mp3/0132.mp3"><span>Discussion de couple</span></a></li>
+  <li id="128" data-nb="0133"><a href="/web/mp3/0133.mp3"><span>Disque Ã&nbsp; domicile</span><span class="details">Vente par tÃ©lÃ©phone</span></a></li>
+  <li id="129" data-nb="0134"><a href="/web/mp3/0134.mp3"><span>Distraite par un doute</span></a></li>
+  <li id="130" data-nb="0135"><a href="/web/mp3/0135.mp3"><span>Distributeur mÃ©dical</span></a></li>
+  <li id="131" data-nb="0136"><a href="/web/mp3/0136.mp3"><span>Don Juan</span></a></li>
+  <li id="132" data-nb="0137"><a href="/web/mp3/0137.mp3"><span>Dossiers mÃ©langÃ©s</span><span class="details">Urgences du peuple</span></a></li>
+  <li id="133" data-nb="0138"><a href="/web/mp3/0138.mp3"><span>Dossiers secrets tÃ©lÃ©visÃ©s</span><span class="details">X-files du peuple</span></a></li>
+  <li id="134" data-nb="0139"><a href="/web/mp3/0139.mp3"><span>Douze opÃ©rations</span><span class="details">Urgences du peuple</span></a></li>
+  <li id="135" data-nb="0140"><a href="/web/mp3/0140.mp3"><span>Drague sur Internet</span></a></li>
+  <li id="136" data-nb="0141"><a href="/web/mp3/0141.mp3"><span>Duca VS Cadu</span><span class="details">Informations quiz</span></a></li>
+  <li id="137" data-nb="0142"><a href="/web/mp3/0142.mp3"><span>Dur-dur mon CD</span></a></li>
+  <li id="138" data-nb="0143"><a href="/web/mp3/0143.mp3"><span>Ãchasses et ballons remplis d'eau</span></a></li>
+  <li id="139" data-nb="0144"><a href="/web/mp3/0144.mp3"><span>ÃmotivitÃ© VS Raison</span></a></li>
+  <li id="140" data-nb="0145"><a href="/web/mp3/0145.mp3"><span>EmployÃ© Ã&nbsp; la sueur de mon front</span></a></li>
+  <li id="141" data-nb="0146"><a href="/web/mp3/0146.mp3"><span>Empreintes trÃ¨s relevÃ©es</span><span class="details">SÃ©rie policiÃ¨re</span></a></li>
+  <li id="142" data-nb="0147"><a href="/web/mp3/0147.mp3"><span>Emprunter une agrafeuse</span></a></li>
+  <li id="143" data-nb="0153"><a href="/web/mp3/0153.mp3"><span>En panne Ã&nbsp; Halloween</span></a></li>
+  <li id="144" data-nb="0148"><a href="/web/mp3/0148.mp3"><span>Encercler le secteur</span></a></li>
+  <li id="145" data-nb="0149"><a href="/web/mp3/0149.mp3"><span>Enduire de marinade</span></a></li>
+  <li id="146" data-nb="0150"><a href="/web/mp3/0150.mp3"><span>Enfants abandonnÃ©s</span><span class="details">Ca se dispute</span></a></li>
+  <li id="147" data-nb="0151"><a href="/web/mp3/0151.mp3"><span>EnlÃ¨vement du fils Dupont</span></a></li>
+  <li id="148" data-nb="0152"><a href="/web/mp3/0152.mp3"><span>Enlever un morceau des intestins</span><span class="details">Urgences du peuple</span></a></li>
+  <li id="149" data-nb="0154"><a href="/web/mp3/0154.mp3"><span>Enregistrement de pub</span></a></li>
+  <li id="150" data-nb="0155"><a href="/web/mp3/0155.mp3"><span>Enterrement</span></a></li>
+  <li id="151" data-nb="0156"><a href="/web/mp3/0156.mp3"><span>Entretien d'embauche</span></a></li>
+  <li id="152" data-nb="0157"><a href="/web/mp3/0157.mp3"><span>Entretien d'embauche d'une femme</span></a></li>
+  <li id="153" data-nb="0158"><a href="/web/mp3/0158.mp3"><span>Entretien paysager</span><span class="details">Vente par tÃ©lÃ©phone</span></a></li>
+  <li id="154" data-nb="0002"><a href="/web/mp3/0002.mp3"><span>Envoyer en mission</span><span class="details">Jacques cartier</span></a></li>
+  <li id="155" data-nb="0159"><a href="/web/mp3/0159.mp3"><span>Espion Ã&nbsp; bord</span><span class="details">Star Trek du peuple</span></a></li>
+  <li id="156" data-nb="0160"><a href="/web/mp3/0160.mp3"><span>Et pourtant</span></a></li>
+  <li id="157" data-nb="0162"><a href="/web/mp3/0162.mp3"><span>Faire appel Ã&nbsp; un dÃ©tective privÃ©</span></a></li>
+  <li id="158" data-nb="0163"><a href="/web/mp3/0163.mp3"><span>Fan de Georges Biburli</span></a></li>
+  <li id="159" data-nb="0164"><a href="/web/mp3/0164.mp3"><span>Fanny et Pipi</span></a></li>
+  <li id="160" data-nb="0165"><a href="/web/mp3/0165.mp3"><span>Faut pas</span></a></li>
+  <li id="161" data-nb="0166"><a href="/web/mp3/0166.mp3"><span>Femme machiavÃ©lique</span><span class="details">Columbo du peuple</span></a></li>
+  <li id="162" data-nb="0167"><a href="/web/mp3/0167.mp3"><span>Femme partie avec une valise</span><span class="details">Urgences du peuple</span></a></li>
+  <li id="163" data-nb="0168"><a href="/web/mp3/0168.mp3"><span>Feuilleton amÃ©ricain</span></a></li>
+  <li id="164" data-nb="0169"><a href="/web/mp3/0169.mp3"><span>Film avec effets spÃ©ciaux</span><span class="details">X-files du peuple</span></a></li>
+  <li id="165" data-nb="0170"><a href="/web/mp3/0170.mp3"><span>Film catastrophe - Partie 1</span></a></li>
+  <li id="166" data-nb="0171"><a href="/web/mp3/0171.mp3"><span>Film catastrophe - Partie 2</span></a></li>
+  <li id="167" data-nb="0172"><a href="/web/mp3/0172.mp3"><span>Finale en musique jazz</span><span class="details">Cours de musique du peuple</span></a></li>
+  <li id="168" data-nb="0173"><a href="/web/mp3/0173.mp3"><span>Finales en chanson</span></a></li>
+  <li id="169" data-nb="0174"><a href="/web/mp3/0174.mp3"><span>Formules de politesse</span></a></li>
+  <li id="170" data-nb="0175"><a href="/web/mp3/0175.mp3"><span>FrÃ©quence Bled</span></a></li>
+  <li id="171" data-nb="0176"><a href="/web/mp3/0176.mp3"><span>FrÃ©quence en branle</span></a></li>
+  <li id="172" data-nb="0177"><a href="/web/mp3/0177.mp3"><span>FrÃ©quence en foule</span></a></li>
+  <li id="173" data-nb="0178"><a href="/web/mp3/0178.mp3"><span>FrÃ©quence solitaire</span></a></li>
+  <li id="174" data-nb="0179"><a href="/web/mp3/0179.mp3"><span>Gagner 12 millions</span></a></li>
+  <li id="175" data-nb="0180"><a href="/web/mp3/0180.mp3"><span>Gagner au loto</span></a></li>
+  <li id="176" data-nb="0182"><a href="/web/mp3/0182.mp3"><span>Gardien d'un condamnÃ©</span></a></li>
+  <li id="177" data-nb="0181"><a href="/web/mp3/0181.mp3"><span>Gardien de sÃ©curitÃ©</span></a></li>
+  <li id="178" data-nb="0183"><a href="/web/mp3/0183.mp3"><span>Georges et Robert jouent au crocket</span><span class="details">Columbo du peuple</span></a></li>
+  <li id="179" data-nb="0184"><a href="/web/mp3/0184.mp3"><span>Georges, Robert et leur chanson</span><span class="details">Columbo du peuple</span></a></li>
+  <li id="180" data-nb="0185"><a href="/web/mp3/0185.mp3"><span>Gestion des stocks</span></a></li>
+  <li id="181" data-nb="0186"><a href="/web/mp3/0186.mp3"><span>Grand manitou</span></a></li>
+  <li id="182" data-nb="0187"><a href="/web/mp3/0187.mp3"><span>Gueule de bois</span></a></li>
+  <li id="183" data-nb="0188"><a href="/web/mp3/0188.mp3"><span>HÃ©ritage</span><span class="details">La maison Slangster</span></a></li>
+  <li id="184" data-nb="0189"><a href="/web/mp3/0189.mp3"><span>Heure de la retraite pour Ãtienne</span></a></li>
+  <li id="185" data-nb="0190"><a href="/web/mp3/0190.mp3"><span>Histoire amÃ©ricaine</span></a></li>
+  <li id="186" data-nb="0191"><a href="/web/mp3/0191.mp3"><span>Histoire de la langue franÃ§aise</span></a></li>
+  <li id="187" data-nb="0192"><a href="/web/mp3/0192.mp3"><span>Histoire sur rÃ©pondeur</span></a></li>
+  <li id="188" data-nb="0193"><a href="/web/mp3/0193.mp3"><span>Historique des jeux vidÃ©os</span></a></li>
+  <li id="189" data-nb="0194"><a href="/web/mp3/0194.mp3"><span>Hommage Ã&nbsp; Jacques Martin</span></a></li>
+  <li id="190" data-nb="0195"><a href="/web/mp3/0195.mp3"><span>Homme trompÃ©</span></a></li>
+  <li id="191" data-nb="0196"><a href="/web/mp3/0196.mp3"><span>HÃ´pital complÃ¨tement engorgÃ©</span><span class="details">Urgences du peuple</span></a></li>
+  <li id="192" data-nb="0197"><a href="/web/mp3/0197.mp3"><span>Il ne fumait pas la pipe</span></a></li>
+  <li id="193" data-nb="0198"><a href="/web/mp3/0198.mp3"><span>Ils peuvent remettre leur pantalon</span><span class="details">Urgences du peuple</span></a></li>
+  <li id="194" data-nb="0199"><a href="/web/mp3/0199.mp3"><span>InfirmiÃ¨re favorite de Malcolm</span><span class="details">Urgences du peuple</span></a></li>
+  <li id="195" data-nb="0200"><a href="/web/mp3/0200.mp3"><span>Inspecteur de police</span></a></li>
+  <li id="196" data-nb="0201"><a href="/web/mp3/0201.mp3"><span>Inspiration</span></a></li>
+  <li id="197" data-nb="0202"><a href="/web/mp3/0202.mp3"><span>Interrogateur peu confiant</span><span class="details">SÃ©rie policiÃ¨re</span></a></li>
+  <li id="198" data-nb="0203"><a href="/web/mp3/0203.mp3"><span>Interruptions de conversation</span></a></li>
+  <li id="199" data-nb="0206"><a href="/web/mp3/0206.mp3"><span>Interview d'un ministre</span></a></li>
+  <li id="200" data-nb="0204"><a href="/web/mp3/0204.mp3"><span>Interview de Bill Gates</span></a></li>
+  <li id="201" data-nb="0209"><a href="/web/mp3/0209.mp3"><span>Interview de criminels</span></a></li>
+  <li id="202" data-nb="0205"><a href="/web/mp3/0205.mp3"><span>Interview de Jeff Bretelles</span></a></li>
+  <li id="203" data-nb="0208"><a href="/web/mp3/0208.mp3"><span>Interview politique par Delarive</span></a></li>
+  <li id="204" data-nb="0207" class=""><a href="/web/mp3/0207.mp3"><span>Interviewer interviewÃ©</span></a></li>
+  <li id="205" data-nb="0210"><a href="/web/mp3/0210.mp3"><span>Introduction aux 2 minutes du peuple</span></a></li>
+  <li id="206" data-nb="0211"><a href="/web/mp3/0211.mp3"><span>Inventions</span></a></li>
+  <li id="207" data-nb="0212"><a href="/web/mp3/0212.mp3"><span>InvitÃ©s divisÃ©s</span><span class="details">Ca se dispute</span></a></li>
+  <li id="208" data-nb="0214"><a href="/web/mp3/0214.mp3"><span>J'aime pas Ã§a</span></a></li>
+  <li id="209" data-nb="0221"><a href="/web/mp3/0221.mp3"><span>J'me casse la gueule en direct</span></a></li>
+  <li id="210" data-nb="0225"><a href="/web/mp3/0225.mp3"><span>J'suis un ratÃ©</span></a></li>
+  <li id="211" data-nb="0161"><a href="/web/mp3/0161.mp3"><span>Jacques Cartier chez les Incas</span></a></li>
+  <li id="212" data-nb="0215"><a href="/web/mp3/0215.mp3"><span>Jamais touchÃ© un ordinateur</span></a></li>
+  <li id="213" data-nb="0216"><a href="/web/mp3/0216.mp3"><span>Je bricole</span></a></li>
+  <li id="214" data-nb="0217"><a href="/web/mp3/0217.mp3"><span>Je passe mon temps</span></a></li>
+  <li id="215" data-nb="0218"><a href="/web/mp3/0218.mp3"><span>Je t'aime, tu m'aimes</span></a></li>
+  <li id="216" data-nb="0219"><a href="/web/mp3/0219.mp3"><span>Jeu de phrases, jeu de nazes</span></a></li>
+  <li id="217" data-nb="0220"><a href="/web/mp3/0220.mp3"><span>Jeux vidÃ©os en 3D</span></a></li>
+  <li id="218" data-nb="0222"><a href="/web/mp3/0222.mp3"><span>John Glen</span></a></li>
+  <li id="219" data-nb="0223"><a href="/web/mp3/0223.mp3"><span>Jouer aux mÃ©dias</span><span class="details">SÃ©rie policiÃ¨re</span></a></li>
+  <li id="220" data-nb="0224"><a href="/web/mp3/0224.mp3"><span>Journal tÃ©lÃ©visÃ©</span></a></li>
+  <li id="221" data-nb="0226"><a href="/web/mp3/0226.mp3"><span>Jumeaux triplÃ©s</span><span class="details">Ca se dispute</span></a></li>
+  <li id="222" data-nb="0227"><a href="/web/mp3/0227.mp3"><span>Kerbout VS Berkout</span><span class="details">Informations quiz</span></a></li>
+  <li id="223" data-nb="0230"><a href="/web/mp3/0230.mp3"><span>L'accordÃ©on</span><span class="details">Cours de musique du peuple</span></a></li>
+  <li id="224" data-nb="0246"><a href="/web/mp3/0246.mp3"><span>L'arnaque automobile</span></a></li>
+  <li id="225" data-nb="0247" class=""><a href="/web/mp3/0247.mp3"><span>L'arrivÃ©e d'Internet</span></a></li>
+  <li id="226" data-nb="0263"><a href="/web/mp3/0263.mp3"><span>L'Ã©motion dans les messages</span></a></li>
+  <li id="227" data-nb="0264"><a href="/web/mp3/0264.mp3"><span>L'ennui porte conseil</span></a></li>
+  <li id="228" data-nb="0308"><a href="/web/mp3/0308.mp3"><span>L'exorciste</span><span class="details">La maison Slangster</span></a></li>
+  <li id="229" data-nb="0310"><a href="/web/mp3/0310.mp3"><span>L'impresario</span></a></li>
+  <li id="230" data-nb="0311"><a href="/web/mp3/0311.mp3"><span>L'interphone</span></a></li>
+  <li id="231" data-nb="0314"><a href="/web/mp3/0314.mp3"><span>L'oiseau Sophie</span><span class="details">SÃ©rie policiÃ¨re</span></a></li>
+  <li id="232" data-nb="0315"><a href="/web/mp3/0315.mp3"><span>L'orgue</span><span class="details">Cours de musique du peuple</span></a></li>
+  <li id="233" data-nb="0228"><a href="/web/mp3/0228.mp3"><span>La banque</span></a></li>
+  <li id="234" data-nb="0229"><a href="/web/mp3/0229.mp3"><span>La batterie</span><span class="details">Cours de musique du peuple</span></a></li>
+  <li id="235" data-nb="0231"><a href="/web/mp3/0231.mp3"><span>La contrebasse</span><span class="details">Cours de musique du peuple</span></a></li>
+  <li id="236" data-nb="0232"><a href="/web/mp3/0232.mp3"><span>La culture et vous</span></a></li>
+  <li id="237" data-nb="0233"><a href="/web/mp3/0233.mp3"><span>La fÃªte de NoÃ«l</span></a></li>
+  <li id="238" data-nb="0234"><a href="/web/mp3/0234.mp3"><span>La frÃ©quence du peuple</span></a></li>
+  <li id="239" data-nb="0235"><a href="/web/mp3/0235.mp3"><span>La fureur</span></a></li>
+  <li id="240" data-nb="0236"><a href="/web/mp3/0236.mp3"><span>La guitare</span><span class="details">Cours de musique du peuple</span></a></li>
+  <li id="241" data-nb="0238"><a href="/web/mp3/0238.mp3"><span>La messe</span></a></li>
+  <li id="242" data-nb="0239"><a href="/web/mp3/0239.mp3"><span>La modernisation</span></a></li>
+  <li id="243" data-nb="0240"><a href="/web/mp3/0240.mp3"><span>La musique japonaise</span><span class="details">Cours de musique du peuple</span></a></li>
+  <li id="244" data-nb="0241"><a href="/web/mp3/0241.mp3"><span>La potiche</span></a></li>
+  <li id="245" data-nb="0242"><a href="/web/mp3/0242.mp3"><span>La premiÃ¨re d'un groupe</span></a></li>
+  <li id="246" data-nb="0244"><a href="/web/mp3/0244.mp3"><span>La radio Ã&nbsp; l'Ã©poque de la guerre</span></a></li>
+  <li id="247" data-nb="0245"><a href="/web/mp3/0245.mp3"><span>La rentrÃ©e des classes</span></a></li>
+  <li id="248" data-nb="0248"><a href="/web/mp3/0248.mp3"><span>La santÃ© de nos parents</span></a></li>
+  <li id="249" data-nb="0025"><a href="/web/mp3/0025.mp3"><span>La science et vous : Annonceur sans assurance</span></a></li>
+  <li id="250" data-nb="0249"><a href="/web/mp3/0249.mp3"><span>La technologie</span></a></li>
+  <li id="251" data-nb="0250"><a href="/web/mp3/0250.mp3"><span>La tÃ©lÃ© en direct</span></a></li>
+  <li id="252" data-nb="0252"><a href="/web/mp3/0252.mp3"><span>La vie en sous-marin</span></a></li>
+  <li id="253" data-nb="0253"><a href="/web/mp3/0253.mp3"><span>La voix humaine</span><span class="details">Cours de musique du peuple</span></a></li>
+  <li id="254" data-nb="0237"><a href="/web/mp3/0237.mp3"><span>Laisser un message Ã&nbsp; la porte</span></a></li>
+  <li id="255" data-nb="0243"><a href="/web/mp3/0243.mp3"><span>Laps 2</span></a></li>
+  <li id="256" data-nb="0251"><a href="/web/mp3/0251.mp3"><span>Laver la vaisselle dans un bar</span></a></li>
+  <li id="257" data-nb="0254"><a href="/web/mp3/0254.mp3"><span>Le blues</span><span class="details">Cours de musique du peuple</span></a></li>
+  <li id="258" data-nb="0255"><a href="/web/mp3/0255.mp3"><span>Le CD</span></a></li>
+  <li id="259" data-nb="0256"><a href="/web/mp3/0256.mp3"><span>Le cinÃ©ma d'Ã©poque</span></a></li>
+  <li id="260" data-nb="0258"><a href="/web/mp3/0258.mp3"><span>Le gaffeur</span></a></li>
+  <li id="261" data-nb="0259"><a href="/web/mp3/0259.mp3"><span>Le langage des films amÃ©ricains</span></a></li>
+  <li id="262" data-nb="0260"><a href="/web/mp3/0260.mp3"><span>Le mari vient de sortir</span></a></li>
+  <li id="263" data-nb="0261"><a href="/web/mp3/0261.mp3"><span>Le mÃ©tro</span></a></li>
+  <li id="264" data-nb="0262"><a href="/web/mp3/0262.mp3"><span>Le Morgan Show</span></a></li>
+  <li id="265" data-nb="0525"><a href="/web/mp3/0525.mp3"><span>Le nouveau des nouvelles</span></a></li>
+  <li id="266" data-nb="0267"><a href="/web/mp3/0267.mp3"><span>Le paradis</span></a></li>
+  <li id="267" data-nb="0268"><a href="/web/mp3/0268.mp3"><span>Le pÃ¨re NoÃ«l</span></a></li>
+  <li id="268" data-nb="0269"><a href="/web/mp3/0269.mp3"><span>Le petit menuisier moustachu</span><span class="details">Vente par tÃ©lÃ©phone</span></a></li>
+  <li id="269" data-nb="0270"><a href="/web/mp3/0270.mp3"><span>Le piano</span><span class="details">Cours de musique du peuple</span></a></li>
+  <li id="270" data-nb="0271"><a href="/web/mp3/0271.mp3"><span>Le prÃ©sident appelle le pÃ¨re NoÃ«l</span></a></li>
+  <li id="271" data-nb="0272"><a href="/web/mp3/0272.mp3"><span>Le producteur</span></a></li>
+  <li id="272" data-nb="0273"><a href="/web/mp3/0273.mp3"><span>Le psychiatre</span></a></li>
+  <li id="273" data-nb="0274"><a href="/web/mp3/0274.mp3"><span>Le psychologue</span></a></li>
+  <li id="274" data-nb="0275"><a href="/web/mp3/0275.mp3"><span>Le retour du courrier</span></a></li>
+  <li id="275" data-nb="0276"><a href="/web/mp3/0276.mp3"><span>Le rÃ©veil sonne tÃ´t</span></a></li>
+  <li id="276" data-nb="0305"><a href="/web/mp3/0305.mp3"><span>Le temps des fÃªtes</span></a></li>
+  <li id="277" data-nb="0306"><a href="/web/mp3/0306.mp3"><span>Le type se retrouve dans le bar</span></a></li>
+  <li id="278" data-nb="0307"><a href="/web/mp3/0307.mp3"><span>Le VTT</span></a></li>
+  <li id="279" data-nb="0257"><a href="/web/mp3/0257.mp3"><span>LeÃ§ons de thÃ©Ã¢tre</span></a></li>
+  <li id="280" data-nb="0266"><a href="/web/mp3/0266.mp3"><span>LÃ©on et Dieu</span></a></li>
+  <li id="281" data-nb="0265"><a href="/web/mp3/0265.mp3"><span>LÃ©onard de Vinci</span></a></li>
+  <li id="282" data-nb="0277"><a href="/web/mp3/0277.mp3"><span>Les amateurs et les pros</span></a></li>
+  <li id="283" data-nb="0278"><a href="/web/mp3/0278.mp3"><span>Les appareils modernes</span></a></li>
+  <li id="284" data-nb="0279" class=""><a href="/web/mp3/0279.mp3"><span>Les besoins du chien du voisin dans le jardin</span></a></li>
+  <li id="285" data-nb="0280"><a href="/web/mp3/0280.mp3"><span>Les cerveaux qui fleurissent</span></a></li>
+  <li id="286" data-nb="0281"><a href="/web/mp3/0281.mp3"><span>Les crottes de chien Ã&nbsp; Paris</span></a></li>
+  <li id="287" data-nb="0282"><a href="/web/mp3/0282.mp3"><span>Les cuivres</span><span class="details">Cours de musique du peuple</span></a></li>
+  <li id="288" data-nb="0283"><a href="/web/mp3/0283.mp3"><span>Les dÃ©buts</span></a></li>
+  <li id="289" data-nb="0284"><a href="/web/mp3/0284.mp3"><span>Les dÃ©rangeants Vol.1</span></a></li>
+  <li id="290" data-nb="0285"><a href="/web/mp3/0285.mp3"><span>Les dÃ©rangeants Vol.2</span></a></li>
+  <li id="291" data-nb="0286"><a href="/web/mp3/0286.mp3"><span>Les enfers</span></a></li>
+  <li id="292" data-nb="0287"><a href="/web/mp3/0287.mp3"><span>Les espaces verts</span></a></li>
+  <li id="293" data-nb="0288"><a href="/web/mp3/0288.mp3"><span>Les esprit-se-rencontrenttateurs</span></a></li>
+  <li id="294" data-nb="0024"><a href="/web/mp3/0024.mp3"><span>Les gens spÃ©ciaux</span><span class="details">Ca se dispute</span></a></li>
+  <li id="295" data-nb="0289"><a href="/web/mp3/0289.mp3"><span>Les gÃ®tes</span></a></li>
+  <li id="296" data-nb="0290"><a href="/web/mp3/0290.mp3"><span>Les grosses tÃªtes</span></a></li>
+  <li id="297" data-nb="0291"><a href="/web/mp3/0291.mp3"><span>Les imperfections surprises</span></a></li>
+  <li id="298" data-nb="0292"><a href="/web/mp3/0292.mp3"><span>Les mystÃ¨res</span></a></li>
+  <li id="299" data-nb="0293"><a href="/web/mp3/0293.mp3"><span>Les ordures</span></a></li>
+  <li id="300" data-nb="0303"><a href="/web/mp3/0303.mp3"><span>Les p'tits trucs</span></a></li>
+  <li id="301" data-nb="0294"><a href="/web/mp3/0294.mp3"><span>Les percussions</span><span class="details">Cours de musique du peuple</span></a></li>
+  <li id="302" data-nb="0295"><a href="/web/mp3/0295.mp3"><span>Les petites bÃªtes</span></a></li>
+  <li id="303" data-nb="0296"><a href="/web/mp3/0296.mp3"><span>Les petites poussiÃ¨res dans le nombril</span></a></li>
+  <li id="304" data-nb="0297"><a href="/web/mp3/0297.mp3"><span>Les petits dauphins</span></a></li>
+  <li id="305" data-nb="0298"><a href="/web/mp3/0298.mp3"><span>Les petits dromadaires</span></a></li>
+  <li id="306" data-nb="0299"><a href="/web/mp3/0299.mp3"><span>Les petits esprits</span></a></li>
+  <li id="307" data-nb="0300"><a href="/web/mp3/0300.mp3"><span>Les petits hamsters</span></a></li>
+  <li id="308" data-nb="0301"><a href="/web/mp3/0301.mp3"><span>Les petits hippocampes</span></a></li>
+  <li id="309" data-nb="0302"><a href="/web/mp3/0302.mp3"><span>Les petits rodactiles</span></a></li>
+  <li id="310" data-nb="0304"><a href="/web/mp3/0304.mp3"><span>Les studios d'enregistrement</span><span class="details">Cours de musique du peuple</span></a></li>
+  <li id="311" data-nb="0526"><a href="/web/mp3/0526.mp3"><span>Les westerns</span></a></li>
+  <li id="312" data-nb="0309"><a href="/web/mp3/0309.mp3"><span>Licenciement</span></a></li>
+  <li id="313" data-nb="0312"><a href="/web/mp3/0312.mp3"><span>Lire le journal, c'est horrible</span></a></li>
+  <li id="314" data-nb="0313"><a href="/web/mp3/0313.mp3"><span>Logisexe</span></a></li>
+  <li id="315" data-nb="0316"><a href="/web/mp3/0316.mp3"><span>Louis XIV</span></a></li>
+  <li id="316" data-nb="0317"><a href="/web/mp3/0317.mp3"><span>Ludwig Von Beethoven</span></a></li>
+  <li id="317" data-nb="0326"><a href="/web/mp3/0326.mp3"><span>Ma petite scandinave</span></a></li>
+  <li id="318" data-nb="0335"><a href="/web/mp3/0335.mp3"><span>Ma voisine</span></a></li>
+  <li id="319" data-nb="0318"><a href="/web/mp3/0318.mp3"><span>Machine Ã&nbsp; cafÃ© problÃ©matique</span></a></li>
+  <li id="320" data-nb="0319"><a href="/web/mp3/0319.mp3"><span>Madame tumeur et Monsieur cerveau</span><span class="details">Urgences du peuple</span></a></li>
+  <li id="321" data-nb="0320"><a href="/web/mp3/0320.mp3"><span>Madeleine ne boit que du thÃ©</span><span class="details">Columbo du peuple</span></a></li>
+  <li id="322" data-nb="0321"><a href="/web/mp3/0321.mp3"><span>Maison Ã&nbsp; vendre</span><span class="details">La maison Slangster</span></a></li>
+  <li id="323" data-nb="0322"><a href="/web/mp3/0322.mp3"><span>MaÃ®triser le texte et le rythme</span></a></li>
+  <li id="324" data-nb="0323"><a href="/web/mp3/0323.mp3"><span>Malcolm fait des mots croisÃ©s</span><span class="details">Urgences du peuple</span></a></li>
+  <li id="325" data-nb="0324"><a href="/web/mp3/0324.mp3"><span>Manager de groupe</span></a></li>
+  <li id="326" data-nb="0325"><a href="/web/mp3/0325.mp3"><span>Manque de confiance en soi</span></a></li>
+  <li id="327" data-nb="0327"><a href="/web/mp3/0327.mp3"><span>Maria est la bonne femme</span></a></li>
+  <li id="328" data-nb="0328"><a href="/web/mp3/0328.mp3"><span>Marionnette Ã©lectronique</span></a></li>
+  <li id="329" data-nb="0329"><a href="/web/mp3/0329.mp3"><span>Match de foot</span></a></li>
+  <li id="330" data-nb="0330"><a href="/web/mp3/0330.mp3"><span>Matelot jardinier</span><span class="details">Columbo du peuple</span></a></li>
+  <li id="331" data-nb="0331"><a href="/web/mp3/0331.mp3"><span>Matin difficile</span></a></li>
+  <li id="332" data-nb="0332"><a href="/web/mp3/0332.mp3"><span>Matin difficile putain !</span></a></li>
+  <li id="333" data-nb="0333"><a href="/web/mp3/0333.mp3"><span>Mauvaise nouvelle sur scÃ¨ne</span></a></li>
+  <li id="334" data-nb="0334"><a href="/web/mp3/0334.mp3"><span>Mauvaises nouvelles par tÃ©lÃ©phone</span></a></li>
+  <li id="335" data-nb="0336"><a href="/web/mp3/0336.mp3"><span>Meeting et 4 siÃ¨ges en cuir</span></a></li>
+  <li id="336" data-nb="0337"><a href="/web/mp3/0337.mp3"><span>Melanum malin de type A</span><span class="details">Urgences du peuple</span></a></li>
+  <li id="337" data-nb="0338" class=""><a href="/web/mp3/0338.mp3"><span>Menaces de l'Irak</span><span class="details">Urgences du peuple</span></a></li>
+  <li id="338" data-nb="0339"><a href="/web/mp3/0339.mp3"><span>Message sur internet</span></a></li>
+  <li id="339" data-nb="0340"><a href="/web/mp3/0340.mp3"><span>Meurtre trÃ¨s dÃ©cidÃ©</span><span class="details">Columbo du peuple</span></a></li>
+  <li id="340" data-nb="0341"><a href="/web/mp3/0341.mp3"><span>Meute de journalistes</span><span class="details">SÃ©rie policiÃ¨re</span></a></li>
+  <li id="341" data-nb="0342"><a href="/web/mp3/0342.mp3"><span>Michael Jackson</span></a></li>
+  <li id="342" data-nb="0343"><a href="/web/mp3/0343.mp3"><span>Michel Nostradamus</span></a></li>
+  <li id="343" data-nb="0344"><a href="/web/mp3/0344.mp3"><span>Ministre avec l'avocat de Bardot</span></a></li>
+  <li id="344" data-nb="0345"><a href="/web/mp3/0345.mp3"><span>Mission Ã&nbsp; Disneyland</span></a></li>
+  <li id="345" data-nb="0346"><a href="/web/mp3/0346.mp3"><span>Monsieur et Madame SÃ¨te</span></a></li>
+  <li id="346" data-nb="0347"><a href="/web/mp3/0347.mp3"><span>Montrer son talent lors d'une soirÃ©e</span></a></li>
+  <li id="347" data-nb="0348"><a href="/web/mp3/0348.mp3"><span>Mort du chien</span></a></li>
+  <li id="348" data-nb="0349"><a href="/web/mp3/0349.mp3"><span>Morte dans le garage</span></a></li>
+  <li id="349" data-nb="0350"><a href="/web/mp3/0350.mp3"><span>Morte sur le piano</span></a></li>
+  <li id="350" data-nb="0351"><a href="/web/mp3/0351.mp3"><span>Musicien du roi</span></a></li>
+  <li id="351" data-nb="0352"><a href="/web/mp3/0352.mp3"><span>Musique d'ouverture plaisante</span><span class="details">Star Trek du peuple</span></a></li>
+  <li id="352" data-nb="0353"><a href="/web/mp3/0353.mp3"><span>Musique et audition</span></a></li>
+  <li id="353" data-nb="0354"><a href="/web/mp3/0354.mp3"><span>Naissance d'un groupe</span></a></li>
+  <li id="354" data-nb="0355"><a href="/web/mp3/0355.mp3"><span>Navette l'IntrÃ©pide</span></a></li>
+  <li id="355" data-nb="0356"><a href="/web/mp3/0356.mp3"><span>NÃ©gocier avec le Japon</span></a></li>
+  <li id="356" data-nb="0357"><a href="/web/mp3/0357.mp3"><span>Nettoyeur Super-Cleaner</span></a></li>
+  <li id="357" data-nb="0358"><a href="/web/mp3/0358.mp3"><span>Nez qui tombe</span><span class="details">SÃ©rie policiÃ¨re</span></a></li>
+  <li id="358" data-nb="0359"><a href="/web/mp3/0359.mp3"><span>Nos amis les animaux</span></a></li>
+  <li id="359" data-nb="0360"><a href="/web/mp3/0360.mp3"><span>Nous irons dans la joie</span></a></li>
+  <li id="360" data-nb="0361"><a href="/web/mp3/0361.mp3"><span>Nouveau dossier du FBI</span><span class="details">X-files du peuple</span></a></li>
+  <li id="361" data-nb="0362"><a href="/web/mp3/0362.mp3"><span>Nouveau pÃ¨re</span></a></li>
+  <li id="362" data-nb="0363"><a href="/web/mp3/0363.mp3"><span>Nouveaux officiers du FBI</span></a></li>
+  <li id="363" data-nb="0364"><a href="/web/mp3/0364.mp3"><span>Nouvelle association</span><span class="details">Columbo du peuple</span></a></li>
+  <li id="364" data-nb="0365"><a href="/web/mp3/0365.mp3"><span>Nouvelle chaÃ®ne HiFi</span></a></li>
+  <li id="365" data-nb="0366"><a href="/web/mp3/0366.mp3"><span>Offrir des fleurs</span></a></li>
+  <li id="366" data-nb="0367"><a href="/web/mp3/0367.mp3"><span>OpÃ©ration d'un ministre</span><span class="details">Urgences du peuple</span></a></li>
+  <li id="367" data-nb="0368"><a href="/web/mp3/0368.mp3"><span>OpÃ©ration loupÃ©e</span><span class="details">Urgences du peuple</span></a></li>
+  <li id="368" data-nb="0369"><a href="/web/mp3/0369.mp3"><span>OpÃ©rations gratuites en cachette</span><span class="details">Urgences du peuple</span></a></li>
+  <li id="369" data-nb="0370"><a href="/web/mp3/0370.mp3"><span>Ordinateurs de la banque plantÃ©s</span></a></li>
+  <li id="370" data-nb="0371"><a href="/web/mp3/0371.mp3"><span>Par derriÃ¨re</span></a></li>
+  <li id="371" data-nb="0372"><a href="/web/mp3/0372.mp3"><span>Parler Ã&nbsp; moitiÃ©</span><span class="details">La maison Slangster</span></a></li>
+  <li id="372" data-nb="0373"><a href="/web/mp3/0373.mp3"><span>Paroles et...</span></a></li>
+  <li id="373" data-nb="0374"><a href="/web/mp3/0374.mp3"><span>Partie de Monopoly</span></a></li>
+  <li id="374" data-nb="0375"><a href="/web/mp3/0375.mp3"><span>Partie de Scrabble</span></a></li>
+  <li id="375" data-nb="0376"><a href="/web/mp3/0376.mp3"><span>Partir un jour</span></a></li>
+  <li id="376" data-nb="0377"><a href="/web/mp3/0377.mp3"><span>Patient amputÃ© des deux jambes</span><span class="details">Urgences du peuple</span></a></li>
+  <li id="377" data-nb="0378"><a href="/web/mp3/0378.mp3"><span>Patinage artistique</span></a></li>
+  <li id="378" data-nb="0379"><a href="/web/mp3/0379.mp3"><span>Patineuse russe disqualifiÃ©e</span></a></li>
+  <li id="379" data-nb="0380"><a href="/web/mp3/0380.mp3"><span>Perceuse un peu forcÃ©e</span></a></li>
+  <li id="380" data-nb="0381"><a href="/web/mp3/0381.mp3"><span>Perdu en forÃªt</span></a></li>
+  <li id="381" data-nb="0382"><a href="/web/mp3/0382.mp3"><span>Permis de porc</span><span class="details">SÃ©rie policiÃ¨re</span></a></li>
+  <li id="382" data-nb="0383"><a href="/web/mp3/0383.mp3"><span>Petite maison perdue dans les bois</span><span class="details">Columbo du peuple</span></a></li>
+  <li id="383" data-nb="0384"><a href="/web/mp3/0384.mp3"><span>Petite partition d'un musicien</span></a></li>
+  <li id="384" data-nb="0385"><a href="/web/mp3/0385.mp3"><span>Photos pour passeports</span><span class="details">X-files du peuple</span></a></li>
+  <li id="385" data-nb="0386"><a href="/web/mp3/0386.mp3"><span>Pianiste Ã&nbsp; un doigt</span></a></li>
+  <li id="386" data-nb="0387"><a href="/web/mp3/0387.mp3"><span>Plaisir-Express</span></a></li>
+  <li id="387" data-nb="0388"><a href="/web/mp3/0388.mp3"><span>Plaques de cire</span></a></li>
+  <li id="388" data-nb="0389"><a href="/web/mp3/0389.mp3"><span>PlÃ©onasmes</span></a></li>
+  <li id="389" data-nb="0390"><a href="/web/mp3/0390.mp3"><span>PoÃ©sie</span></a></li>
+  <li id="390" data-nb="0391"><a href="/web/mp3/0391.mp3"><span>Portable au thÃ©Ã¢tre</span></a></li>
+  <li id="391" data-nb="0392"><a href="/web/mp3/0392.mp3"><span>Portrait d'artiste</span></a></li>
+  <li id="392" data-nb="0393"><a href="/web/mp3/0393.mp3"><span>PossibilitÃ© d'Ãªtre enceinte</span></a></li>
+  <li id="393" data-nb="0394"><a href="/web/mp3/0394.mp3"><span>Pouvoir suggestif</span><span class="details">X-files du peuple</span></a></li>
+  <li id="394" data-nb="0396"><a href="/web/mp3/0396.mp3"><span>Premier vol en avion</span></a></li>
+  <li id="395" data-nb="0395"><a href="/web/mp3/0395.mp3"><span>PremiÃ¨res visites</span><span class="details">La maison Slangster</span></a></li>
+  <li id="396" data-nb="0397"><a href="/web/mp3/0397.mp3"><span>PrÃ©sentateur aux WC</span><span class="details">Ca se dispute</span></a></li>
+  <li id="397" data-nb="0399"><a href="/web/mp3/0399.mp3"><span>PrÃ©sentation d'un artiste</span></a></li>
+  <li id="398" data-nb="0398"><a href="/web/mp3/0398.mp3"><span>PrÃ©sentation des 2 minutes du peuple</span></a></li>
+  <li id="399" data-nb="0400"><a href="/web/mp3/0400.mp3"><span>PrÃ©sident des USA</span></a></li>
+  <li id="400" data-nb="0401"><a href="/web/mp3/0401.mp3"><span>PrÃªter 5000 balles Ã&nbsp; Paul</span><span class="details">Urgences du peuple</span></a></li>
+  <li id="401" data-nb="0402"><a href="/web/mp3/0402.mp3"><span>PrÃªts Ã&nbsp; taux Ã©levÃ©s</span><span class="details">Vente par tÃ©lÃ©phone</span></a></li>
+  <li id="402" data-nb="0403"><a href="/web/mp3/0403.mp3"><span>Prix de mÃ©rites</span></a></li>
+  <li id="403" data-nb="0404"><a href="/web/mp3/0404.mp3"><span>Professionnel presse</span></a></li>
+  <li id="404" data-nb="0405"><a href="/web/mp3/0405.mp3"><span>Programme jeunesse</span></a></li>
+  <li id="405" data-nb="0406"><a href="/web/mp3/0406.mp3"><span>Psychologue dÃ©guisÃ© en femme</span></a></li>
+  <li id="406" data-nb="0407"><a href="/web/mp3/0407.mp3"><span>Pub comparative</span></a></li>
+  <li id="407" data-nb="0408"><a href="/web/mp3/0408.mp3"><span>Pub dans laquelle je joue</span></a></li>
+  <li id="408" data-nb="0409"><a href="/web/mp3/0409.mp3"><span>Pub mal cadrÃ©e</span></a></li>
+  <li id="409" data-nb="0410"><a href="/web/mp3/0410.mp3"><span>Pub pour des vitamines</span></a></li>
+  <li id="410" data-nb="0411"><a href="/web/mp3/0411.mp3"><span>Quand je chante comme Ã§a</span></a></li>
+  <li id="411" data-nb="0412"><a href="/web/mp3/0412.mp3"><span>QuatriÃ¨me ouh lÃ&nbsp; !</span><span class="details">Urgences du peuple</span></a></li>
+  <li id="412" data-nb="0413"><a href="/web/mp3/0413.mp3"><span>Quelqu'un qui vous veut du bien</span></a></li>
+  <li id="413" data-nb="0414"><a href="/web/mp3/0414.mp3"><span>Questions-rÃ©ponses</span></a></li>
+  <li id="414" data-nb="0415"><a href="/web/mp3/0415.mp3"><span>Radio associative</span></a></li>
+  <li id="415" data-nb="0416"><a href="/web/mp3/0416.mp3"><span>Radio avec Michel</span></a></li>
+  <li id="416" data-nb="0417"><a href="/web/mp3/0417.mp3"><span>Radio Poil d'Oreille</span></a></li>
+  <li id="417" data-nb="0418"><a href="/web/mp3/0418.mp3"><span>RÃ©ceptionniste dans un 5 Ã©toiles</span></a></li>
+  <li id="418" data-nb="0419"><a href="/web/mp3/0419.mp3"><span>Recette du feuilleton</span></a></li>
+  <li id="419" data-nb="0420"><a href="/web/mp3/0420.mp3"><span>Recherche de ParlÃ&nbsp;</span><span class="details">SÃ©rie policiÃ¨re</span></a></li>
+  <li id="420" data-nb="0421"><a href="/web/mp3/0421.mp3"><span>RÃ©clamation Ã&nbsp; l'assurance</span></a></li>
+  <li id="421" data-nb="0422"><a href="/web/mp3/0422.mp3"><span>Reconstitution d'un visage</span></a></li>
+  <li id="422" data-nb="0423"><a href="/web/mp3/0423.mp3"><span>RÃ©dacteur en chef</span></a></li>
+  <li id="423" data-nb="0424"><a href="/web/mp3/0424.mp3"><span>RÃ¨glement de comptes</span><span class="details">SÃ©rie policiÃ¨re</span></a></li>
+  <li id="424" data-nb="0425"><a href="/web/mp3/0425.mp3"><span>Relations extra-conjugales</span></a></li>
+  <li id="425" data-nb="0426"><a href="/web/mp3/0426.mp3"><span>Remise des palmes</span></a></li>
+  <li id="426" data-nb="0428"><a href="/web/mp3/0428.mp3"><span>Rencontre d'un vieil ami</span></a></li>
+  <li id="427" data-nb="0427"><a href="/web/mp3/0427.mp3"><span>Rencontre de deux prÃ©sidents opposÃ©s</span></a></li>
+  <li id="428" data-nb="0429"><a href="/web/mp3/0429.mp3"><span>Rendez-vous sur Internet</span></a></li>
+  <li id="429" data-nb="0430"><a href="/web/mp3/0430.mp3"><span>Rendre visite Ã&nbsp; l'hÃ´pital</span></a></li>
+  <li id="430" data-nb="0431"><a href="/web/mp3/0431.mp3"><span>RentrÃ©e du boulot</span></a></li>
+  <li id="431" data-nb="0432"><a href="/web/mp3/0432.mp3"><span>RÃ©pÃ©tition de thÃ©Ã¢tre</span></a></li>
+  <li id="432" data-nb="0433"><a href="/web/mp3/0433.mp3"><span>RÃ©pliques dans l'ordinateur</span></a></li>
+  <li id="433" data-nb="0434"><a href="/web/mp3/0434.mp3"><span>RÃ©pondeur Ã&nbsp; afficheur digital</span></a></li>
+  <li id="434" data-nb="0435"><a href="/web/mp3/0435.mp3"><span>RÃ©ponse d'experte en un clin d'oeil</span></a></li>
+  <li id="435" data-nb="0436"><a href="/web/mp3/0436.mp3"><span>ReprÃ©sentante en salle d'opÃ©ration</span><span class="details">Urgences du peuple</span></a></li>
+  <li id="436" data-nb="0437"><a href="/web/mp3/0437.mp3"><span>Restaurant diÃ©tÃ©tique</span></a></li>
+  <li id="437" data-nb="0438"><a href="/web/mp3/0438.mp3"><span>Restaurant pour la Saint-Valentin</span></a></li>
+  <li id="438" data-nb="0439" class="active"><a href="/web/mp3/0439.mp3"><span>Restauration de faÃ§ade</span></a></li>
+  <li id="439" data-nb="0440"><a href="/web/mp3/0440.mp3"><span>RÃ©sultat des analyses</span><span class="details">Urgences du peuple</span></a></li>
+  <li id="440" data-nb="0441"><a href="/web/mp3/0441.mp3"><span>Retire l'affaire Ã&nbsp; cause du gÃ©nÃ©ral</span><span class="details">X-files du peuple</span></a></li>
+  <li id="441" data-nb="0442"><a href="/web/mp3/0442.mp3"><span>Retraite au grand air</span><span class="details">Columbo du peuple</span></a></li>
+  <li id="442" data-nb="0443"><a href="/web/mp3/0443.mp3"><span>RÃ©union prÃ©sidentielle sur les taxes</span></a></li>
+  <li id="443" data-nb="0444"><a href="/web/mp3/0444.mp3"><span>RÃ©union sur les portes</span></a></li>
+  <li id="444" data-nb="0445"><a href="/web/mp3/0445.mp3"><span>Rien ne va plus avec sa femme</span><span class="details">Urgences du peuple</span></a></li>
+  <li id="445" data-nb="0446"><a href="/web/mp3/0446.mp3"><span>Roger reÃ§oit Caroline</span></a></li>
+  <li id="446" data-nb="0447"><a href="/web/mp3/0447.mp3"><span>Rupture sur solo de guitare</span></a></li>
+  <li id="447" data-nb="0448"><a href="/web/mp3/0448.mp3"><span>Salon funÃ©raire</span></a></li>
+  <li id="448" data-nb="0449"><a href="/web/mp3/0449.mp3"><span>Sam revient passer le weekend</span><span class="details">Columbo du peuple </span></a></li>
+  <li id="449" data-nb="0450"><a href="/web/mp3/0450.mp3"><span>Scandale au gouvernement</span></a></li>
+  <li id="450" data-nb="0451"><a href="/web/mp3/0451.mp3"><span>Service impec'</span></a></li>
+  <li id="451" data-nb="0452"><a href="/web/mp3/0452.mp3"><span>Si jolie sÃ©rÃ©nade</span><span class="details">Columbo du peuple</span></a></li>
+  <li id="452" data-nb="0453"><a href="/web/mp3/0453.mp3"><span>Situation financiÃ¨re catastrophique</span></a></li>
+  <li id="453" data-nb="0454"><a href="/web/mp3/0454.mp3"><span>Situations gÃªnantes</span></a></li>
+  <li id="454" data-nb="0455"><a href="/web/mp3/0455.mp3"><span>Ski</span></a></li>
+  <li id="455" data-nb="0456"><a href="/web/mp3/0456.mp3"><span>Snack-bar chez LÃ©on</span></a></li>
+  <li id="456" data-nb="0457"><a href="/web/mp3/0457.mp3"><span>Solo de Jimmy Page</span></a></li>
+  <li id="457" data-nb="0458"><a href="/web/mp3/0458.mp3"><span>Sondage sur NoÃ«l</span></a></li>
+  <li id="458" data-nb="0459"><a href="/web/mp3/0459.mp3"><span>Sonde odyssÃ©e perdue</span></a></li>
+  <li id="459" data-nb="0460"><a href="/web/mp3/0460.mp3"><span>Sons TchÃ©coslovaques</span></a></li>
+  <li id="460" data-nb="0461"><a href="/web/mp3/0461.mp3"><span>Sophie Marceau chanteuse</span></a></li>
+  <li id="461" data-nb="0462"><a href="/web/mp3/0462.mp3"><span>Soudoiement</span></a></li>
+  <li id="462" data-nb="0463"><a href="/web/mp3/0463.mp3"><span>Spielberg et De Niro</span></a></li>
+  <li id="463" data-nb="0464"><a href="/web/mp3/0464.mp3"><span>Spock a des Ã©couteurs</span><span class="details">Star Trek du peuple</span></a></li>
+  <li id="464" data-nb="0465"><a href="/web/mp3/0465.mp3"><span>Spock a un problÃ¨me de volume</span><span class="details">Star Trek du peuple</span></a></li>
+  <li id="465" data-nb="0466"><a href="/web/mp3/0466.mp3"><span>Sports et loisirs</span></a></li>
+  <li id="466" data-nb="0467"><a href="/web/mp3/0467.mp3"><span>Stade de France</span></a></li>
+  <li id="467" data-nb="0468"><a href="/web/mp3/0468.mp3"><span>Station Mir</span></a></li>
+  <li id="468" data-nb="0469"><a href="/web/mp3/0469.mp3"><span>SuccÃ¨s mondial pour les chanteurs</span></a></li>
+  <li id="469" data-nb="0470"><a href="/web/mp3/0470.mp3"><span>Suicide Ã&nbsp; coups de claques</span><span class="details">Columbo du peuple</span></a></li>
+  <li id="470" data-nb="0471"><a href="/web/mp3/0471.mp3"><span>Super Chaussette FM</span></a></li>
+  <li id="471" data-nb="0472"><a href="/web/mp3/0472.mp3"><span>Super Sport Plus pour tous</span></a></li>
+  <li id="472" data-nb="0473"><a href="/web/mp3/0473.mp3"><span>SystÃ¨mes solaires</span></a></li>
+  <li id="473" data-nb="0474"><a href="/web/mp3/0474.mp3"><span>Table doute</span></a></li>
+  <li id="474" data-nb="0475" class=""><a href="/web/mp3/0475.mp3"><span>Technologie musicale</span></a></li>
+  <li id="475" data-nb="0477"><a href="/web/mp3/0477.mp3"><span>TÃ©lÃ© en fond sonore</span></a></li>
+  <li id="476" data-nb="0476"><a href="/web/mp3/0476.mp3"><span>TÃ©lÃ©-Achats</span></a></li>
+  <li id="477" data-nb="0478"><a href="/web/mp3/0478.mp3"><span>TÃ©lÃ©phone arabe</span></a></li>
+  <li id="478" data-nb="0479"><a href="/web/mp3/0479.mp3"><span>Thomas Edison</span></a></li>
+  <li id="479" data-nb="0480"><a href="/web/mp3/0480.mp3"><span>TombÃ© dans l'escalier</span></a></li>
+  <li id="480" data-nb="0481"><a href="/web/mp3/0481.mp3"><span>Toto le crÃ©tin</span></a></li>
+  <li id="481" data-nb="0482"><a href="/web/mp3/0482.mp3"><span>Toujours en train de boire</span></a></li>
+  <li id="482" data-nb="0483"><a href="/web/mp3/0483.mp3"><span>Tourner sans dÃ©cor</span></a></li>
+  <li id="483" data-nb="0485"><a href="/web/mp3/0485.mp3"><span>Tout le monde s'en fout</span></a></li>
+  <li id="484" data-nb="0484"><a href="/web/mp3/0484.mp3"><span>Tout le monde se couche</span></a></li>
+  <li id="485" data-nb="0486"><a href="/web/mp3/0486.mp3"><span>Travailler comme espion</span></a></li>
+  <li id="486" data-nb="0487"><a href="/web/mp3/0487.mp3"><span>Trois premiers appels</span></a></li>
+  <li id="487" data-nb="0489"><a href="/web/mp3/0489.mp3"><span>TrompÃ© avec un aspirateur</span></a></li>
+  <li id="488" data-nb="0488"><a href="/web/mp3/0488.mp3"><span>TrompÃ© avec un fermier</span></a></li>
+  <li id="489" data-nb="0490"><a href="/web/mp3/0490.mp3"><span>Trouver le dossier avant que l'inspecteur n'arrive</span></a></li>
+  <li id="490" data-nb="0001"><a href="/web/mp3/0001.mp3"><span>Tumeur au cerveau</span><span class="details">Urgences du Peuple</span></a></li>
+  <li id="491" data-nb="0491"><a href="/web/mp3/0491.mp3"><span>Un cygne sur l'Ã©tang</span><span class="details">La maison Slangster</span></a></li>
+  <li id="492" data-nb="0494"><a href="/web/mp3/0494.mp3"><span>Un invitÃ© de Marc</span></a></li>
+  <li id="493" data-nb="0495"><a href="/web/mp3/0495.mp3"><span>Un jeune premier ministre</span></a></li>
+  <li id="494" data-nb="0496"><a href="/web/mp3/0496.mp3"><span>Un monde sans hypocrisie</span></a></li>
+  <li id="495" data-nb="0497"><a href="/web/mp3/0497.mp3"><span>Un mort par balle, un noyÃ©</span><span class="details">SÃ©rie policiÃ¨re</span></a></li>
+  <li id="496" data-nb="0498"><a href="/web/mp3/0498.mp3"><span>Un NoÃ«l dans tous les styles</span></a></li>
+  <li id="497" data-nb="0499"><a href="/web/mp3/0499.mp3"><span>Un vieil ami</span></a></li>
+  <li id="498" data-nb="0126"><a href="/web/mp3/0126.mp3"><span>Une dette c'est une dette</span></a></li>
+  <li id="499" data-nb="0492"><a href="/web/mp3/0492.mp3"><span>Une foule qui dÃ©gage</span></a></li>
+  <li id="500" data-nb="0493"><a href="/web/mp3/0493.mp3"><span>Une tradition des souvenirs</span></a></li>
+  <li id="501" data-nb="0500"><a href="/web/mp3/0500.mp3"><span>Vacances au Mexique</span></a></li>
+  <li id="502" data-nb="0501"><a href="/web/mp3/0501.mp3"><span>Vaisseau et demi</span><span class="details">Star Trek du peuple</span></a></li>
+  <li id="503" data-nb="0502"><a href="/web/mp3/0502.mp3"><span>Vaste opÃ©ration en Russie</span></a></li>
+  <li id="504" data-nb="0503"><a href="/web/mp3/0503.mp3"><span>Vendeur de HiFi collant</span></a></li>
+  <li id="505" data-nb="0504"><a href="/web/mp3/0504.mp3"><span>Vendeur de voitures souriant</span></a></li>
+  <li id="506" data-nb="0506"><a href="/web/mp3/0506.mp3"><span>Vente d'encyclopÃ©dies</span><span class="details">Vente par tÃ©lÃ©phone</span></a></li>
+  <li id="507" data-nb="0505"><a href="/web/mp3/0505.mp3"><span>Vente de batterie de cuisine</span><span class="details">Vente par tÃ©lÃ©phone</span></a></li>
+  <li id="508" data-nb="0507"><a href="/web/mp3/0507.mp3"><span>Venu pour te voir</span></a></li>
+  <li id="509" data-nb="0508"><a href="/web/mp3/0508.mp3"><span>Victor Hugo</span></a></li>
+  <li id="510" data-nb="0509"><a href="/web/mp3/0509.mp3"><span>Vie en apesanteur</span></a></li>
+  <li id="511" data-nb="0510"><a href="/web/mp3/0510.mp3"><span>Vieillir de 60 ans</span></a></li>
+  <li id="512" data-nb="0511"><a href="/web/mp3/0511.mp3"><span>Vieux clichÃ©s de films d'horreur</span></a></li>
+  <li id="513" data-nb="0512"><a href="/web/mp3/0512.mp3"><span>Vincent plaquÃ© par Jacinthe</span></a></li>
+  <li id="514" data-nb="0513"><a href="/web/mp3/0513.mp3"><span>Visite du neveu Nouveaune</span></a></li>
+  <li id="515" data-nb="0514"><a href="/web/mp3/0514.mp3"><span>Visite du patron</span><span class="details">Columbo du peuple</span></a></li>
+  <li id="516" data-nb="0515"><a href="/web/mp3/0515.mp3"><span>Visite inattendue</span></a></li>
+  <li id="517" data-nb="0516"><a href="/web/mp3/0516.mp3"><span>Visite indÃ©sirable</span></a></li>
+  <li id="518" data-nb="0517"><a href="/web/mp3/0517.mp3"><span>Vive l'amour</span></a></li>
+  <li id="519" data-nb="0518"><a href="/web/mp3/0518.mp3"><span>Voir Serge Lama aprÃ¨s concert</span></a></li>
+  <li id="520" data-nb="0519"><a href="/web/mp3/0519.mp3"><span>Voiture impressionnante</span></a></li>
+  <li id="521" data-nb="0520"><a href="/web/mp3/0520.mp3"><span>Voix dÃ©guisÃ©e</span></a></li>
+  <li id="522" data-nb="0521"><a href="/web/mp3/0521.mp3"><span>Vous de rÃªvez plus</span></a></li>
+  <li id="523" data-nb="0522"><a href="/web/mp3/0522.mp3"><span>Vrais musiciens accoustiques</span></a></li>
+  <li id="524" data-nb="0523"><a href="/web/mp3/0523.mp3"><span>Yves gagne 10 000 francs</span><span class="details">Columbo du peuple</span></a></li>
+  <li id="525" data-nb="0524"><a href="/web/mp3/0524.mp3"><span>Zorro</span></a></li>
+</ul>
