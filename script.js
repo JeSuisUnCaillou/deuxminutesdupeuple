@@ -41,7 +41,6 @@ const extractData = (data) => {
       const category = replaceCharacters(categoryMatch[1])
       title = title + ' (' + category + ')'
     }
-    console.log(title)
     return { file, title }
   })
 }
