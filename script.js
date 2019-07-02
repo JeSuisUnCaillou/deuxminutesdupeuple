@@ -59,7 +59,6 @@ const downloadFile = (url, fileName, callback) => {
 const download_recursive = (data, index) => {
   if (index < data.length) {
     const datum = data[index]
-    var fileName = datum.vatedatum.file
     
     console.log('try ' + datum.title + ' (' + datum.file + ')')
     downloadFile(root + datum.file, folderDest + datum.title + '.mp3', (result, error) => {
