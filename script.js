@@ -43,8 +43,9 @@ const main = async () => {
   const fileContent = await readFile('./data_origin.xml')
   const data = extractData(fileContent)
 
-  var datum
-  for (datum in data) {
+  var index
+  for (index in data) {
+    const datum = data[index]
     downloadFile(root + datum.file, folderDest + datum.title + '.mp3', (data, error) => {
       if (error) { console.log(error) } else { console.log(data) }
     })
