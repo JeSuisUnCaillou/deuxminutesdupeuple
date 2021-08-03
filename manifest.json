@@ -1,0 +1,15 @@
+{
+  "name": "Les deux minutes du peuple",
+  "short_name": "2min du peuple",
+  "theme_color": "#363445",
+  "background_color": "#eae7ff",
+  "display": "standalone",
+  "start_url": ".",
+  "icons": [
+    {
+      "sizes": "192x192",
+      "src": "/favicon.png",
+      "type": "image/png"
+    }
+  ]
+}
